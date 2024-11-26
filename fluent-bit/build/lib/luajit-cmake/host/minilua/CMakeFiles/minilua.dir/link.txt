@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -g "CMakeFiles/minilua.dir/__/__/__/luajit-04dca791/src/host/minilua.c.o" -o ../../../../bin/minilua  -lm

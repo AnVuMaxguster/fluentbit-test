@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -Wall  -D__FILENAME__=__FILE__ -g -rdynamic CMakeFiles/cio.dir/cio.c.o -o ../../../bin/cio  ../../../library/libchunkio-static.a ../../../library/libcio-crc32.a

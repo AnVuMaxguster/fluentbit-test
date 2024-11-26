@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -g -rdynamic CMakeFiles/LwLibPROJECT.dir/dev/main.c.o CMakeFiles/LwLibPROJECT.dir/lwrb/src/lwrb/lwrb.c.o -o ../../bin/LwLibPROJECT

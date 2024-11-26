@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -std=gnu99 -Wall -Wextra -D__FILENAME__='"$$(subst /home/htcg/fluentbit/fluent-bit/,,$$(abspath $$<))"' -g -rdynamic CMakeFiles/api_test.dir/test.c.o -o ../bin/api_test  ../library/libmonkey.a ../library/libmk_core.a -lpthread ../library/monkey-liana.a -ldl ../library/librbtree.a ../library/libco.a ../library/libregex.a

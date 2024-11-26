@@ -1,0 +1,1 @@
+cmd='/home/htcg/fluentbit/fluent-bit/lib/libbacktrace-8602fda/configure;--prefix=<INSTALL_DIR>;--enable-shared=no;--enable-static=yes'

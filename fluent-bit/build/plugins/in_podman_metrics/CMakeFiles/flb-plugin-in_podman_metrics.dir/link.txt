@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../library/libflb-plugin-in_podman_metrics.a "CMakeFiles/flb-plugin-in_podman_metrics.dir/podman_metrics.c.o" "CMakeFiles/flb-plugin-in_podman_metrics.dir/podman_metrics_data.c.o" "CMakeFiles/flb-plugin-in_podman_metrics.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
+/usr/bin/ranlib ../../library/libflb-plugin-in_podman_metrics.a

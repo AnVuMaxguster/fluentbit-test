@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../library/libflb-plugin-in_docker.a "CMakeFiles/flb-plugin-in_docker.dir/docker.c.o" "CMakeFiles/flb-plugin-in_docker.dir/cgroup_v1.c.o" "CMakeFiles/flb-plugin-in_docker.dir/cgroup_v2.c.o" "CMakeFiles/flb-plugin-in_docker.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
+/usr/bin/ranlib ../../library/libflb-plugin-in_docker.a

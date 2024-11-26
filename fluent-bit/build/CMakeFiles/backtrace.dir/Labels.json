@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/CMakeFiles/backtrace"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/CMakeFiles/backtrace.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/CMakeFiles/backtrace-complete.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-build.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-configure.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-download.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-install.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-mkdir.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-patch.rule"
+		},
+		{
+			"file" : "/home/htcg/fluentbit/fluent-bit/build/backtrace-prefix/src/backtrace-stamp/backtrace-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"backtrace"
+		],
+		"name" : "backtrace"
+	}
+}

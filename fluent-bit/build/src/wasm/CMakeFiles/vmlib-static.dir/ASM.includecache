@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/htcg/fluentbit/fluent-bit/lib/wasm-micro-runtime-WAMR-1.3.0/core/iwasm/common/arch/invokeNative_em64.s
+

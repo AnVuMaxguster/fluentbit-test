@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -g -rdynamic "CMakeFiles/test-api.dir/test-api.c.o" -o ../../../bin/test-api  ../../../library/libfluent-otel-proto.a
