@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../library/libflb-plugin-out_oracle_log_analytics.a "CMakeFiles/flb-plugin-out_oracle_log_analytics.dir/oci_logan.c.o" "CMakeFiles/flb-plugin-out_oracle_log_analytics.dir/oci_logan_conf.c.o" "CMakeFiles/flb-plugin-out_oracle_log_analytics.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
-/usr/bin/ranlib ../../library/libflb-plugin-out_oracle_log_analytics.a

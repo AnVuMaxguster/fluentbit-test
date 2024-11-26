@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC  -Wall -D__FLB_FILENAME__=__FILE__ -std=gnu99 -Wall -Wextra -D__FILENAME__='"$$(subst /home/htcg/fluentbit/fluent-bit/,,$$(abspath $$<))"' -g -shared -Wl,-soname,monkey-dirlisting.so -o ../../lib/monkey-dirlisting.so "CMakeFiles/monkey-dirlisting-shared.dir/dirlisting.c.o"

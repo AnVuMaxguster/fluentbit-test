@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../library/libflb-plugin-in_kafka.a "CMakeFiles/flb-plugin-in_kafka.dir/in_kafka.c.o" "CMakeFiles/flb-plugin-in_kafka.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
-/usr/bin/ranlib ../../library/libflb-plugin-in_kafka.a

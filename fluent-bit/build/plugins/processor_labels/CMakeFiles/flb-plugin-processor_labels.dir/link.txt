@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../library/libflb-plugin-processor_labels.a "CMakeFiles/flb-plugin-processor_labels.dir/labels.c.o" "CMakeFiles/flb-plugin-processor_labels.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
-/usr/bin/ranlib ../../library/libflb-plugin-processor_labels.a

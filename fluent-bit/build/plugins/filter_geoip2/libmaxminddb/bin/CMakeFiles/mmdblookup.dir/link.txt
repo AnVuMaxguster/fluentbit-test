@@ -1,1 +1,0 @@
-/usr/bin/cc -std=gnu99  -Wall -D__FLB_FILENAME__=__FILE__ -g CMakeFiles/mmdblookup.dir/mmdblookup.c.o -o ../../../../bin/mmdblookup  ../../../../library/libmaxminddb.a -lpthread

@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../library/libflb-plugin-in_stdin.a "CMakeFiles/flb-plugin-in_stdin.dir/in_stdin.c.o" "CMakeFiles/flb-plugin-in_stdin.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
-/usr/bin/ranlib ../../library/libflb-plugin-in_stdin.a

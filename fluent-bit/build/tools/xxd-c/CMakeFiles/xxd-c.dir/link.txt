@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -g "CMakeFiles/xxd-c.dir/xxd-c.c.o" -o ../../bin/xxd-c

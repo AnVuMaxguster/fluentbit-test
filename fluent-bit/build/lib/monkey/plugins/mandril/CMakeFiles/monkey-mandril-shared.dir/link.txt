@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC  -Wall -D__FLB_FILENAME__=__FILE__ -std=gnu99 -Wall -Wextra -D__FILENAME__='"$$(subst /home/htcg/fluentbit/fluent-bit/,,$$(abspath $$<))"' -g -shared -Wl,-soname,monkey-mandril.so -o ../../lib/monkey-mandril.so "CMakeFiles/monkey-mandril-shared.dir/mandril.c.o"

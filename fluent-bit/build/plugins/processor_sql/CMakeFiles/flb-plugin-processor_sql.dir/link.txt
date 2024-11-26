@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../library/libflb-plugin-processor_sql.a "CMakeFiles/flb-plugin-processor_sql.dir/sql_config.c.o" "CMakeFiles/flb-plugin-processor_sql.dir/sql.c.o" "CMakeFiles/flb-plugin-processor_sql.dir/__/__/lib/lwrb/lwrb/src/lwrb/lwrb.c.o"
-/usr/bin/ranlib ../../library/libflb-plugin-processor_sql.a

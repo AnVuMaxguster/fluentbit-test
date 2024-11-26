@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -D__FLB_FILENAME__=__FILE__ -g "CMakeFiles/luajit.dir/__/luajit-04dca791/src/luajit.c.o" -o ../../bin/luajit  ../../library/libluajit.a -lm /usr/lib/x86_64-linux-gnu/libdl.so
